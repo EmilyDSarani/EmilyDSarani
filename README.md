@@ -1,6 +1,5 @@
 ### Hi there 👋
-
-h1 align="center">Hi 👋, I'm Emily D. Sarani (She/Her)</h1>
+<h1 align="center">Hi 👋, I'm Emily D. Sarani</h1>
 <h3 align="center">A passionate web-developer from the United States</h3>
 
 - 🔭 I’m currently working on [Hands of Mythology](https://github.com/EmilyDSarani/hands-of-mythology-resources)
