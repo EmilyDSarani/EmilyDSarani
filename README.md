@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **React, Node.js, Express, Framer, Tone.js, Phaser.io**
 
-- 👯 I’m looking to collaborate on [SwordAxeLance](https://github.com/EmilyDSarani/SwordAxeLance)
-
 - 🤝 I’m looking for help with [Wander-Bro](https://github.com/EmilyDSarani/wander-bro)
 
 - 💬 Ask me about **react and node**
