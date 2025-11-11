@@ -9,8 +9,6 @@
 
 - 💬 Ask me about **react and node**
 
-- 📫 How to reach me **emily.sarani@gmail.com**
-
 - ⚡ Fun fact **I enjoy playing video games and listening to music.**
 
 <h3 align="left">Connect with me:</h3>
